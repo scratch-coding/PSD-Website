@@ -1,0 +1,11 @@
+.homepage-slider{
+	height: 500px;
+	background-color: #A7A9FE;
+	position: relative;
+	display: flex;
+	align-items: center;
+}
+
+.homepage-slider .title h1{
+	font-size: 50px;
+}
