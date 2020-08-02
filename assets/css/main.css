@@ -4,8 +4,42 @@
 	position: relative;
 	display: flex;
 	align-items: center;
+/*	background: url(../../assets/img/slider.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;*/
 }
 
 .homepage-slider .title h1{
 	font-size: 50px;
+}
+
+.homepage-slider .button-slider{
+	background: #FAB702;
+	color: white;
+	border: 0;
+	outline: 0;
+	padding: 1rem 2rem 1rem 2rem;
+}
+
+.banner{
+	padding: 1rem;
+	background-color: #FAB702;
+	display: flex;
+	align-items: center;
+}
+
+.banner a:hover{
+	text-decoration: none;
+}
+
+.banner .button{
+	background-color: white;
+	color: #FAB702;
+	padding: 0.5rem 1rem 0.5rem 1rem;
+	border: 0;
+}
+
+.banner h4{
+	margin-bottom: 0;
 }

@@ -2,4 +2,12 @@
 	.header-nav{
 		text-align: center;
 	}
+	.header .logo{
+		text-align: center;
+	}
+
+	.header .menu{
+		text-align: center;
+		margin-top: 1rem;
+	}
 }
