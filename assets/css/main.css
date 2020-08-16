@@ -74,3 +74,23 @@
 .our-services .service:hover .title{
 	color: #FFB700;
 }
+
+.video-service .video{
+	background-color: #FFCE50;
+}
+
+.video-service .video .player{
+	position: absolute;
+	right: 4rem;
+	bottom: 2rem;
+}
+
+
+.video-service .title{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.video-service .title{
+	color: #BFC1CE;
+}
