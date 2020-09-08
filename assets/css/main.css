@@ -48,6 +48,11 @@
 	color: #6D7396;
 }
 
+.our-services .date{
+	color: #6D7396;
+	font-size: 11px;
+}
+
 .our-services .service .image{
 	background-color: #FAB702;
 	min-height: 237px;
@@ -220,4 +225,62 @@
 
 .customer_feedback .slider .one-feedback .text .work{
 	color: #3B404F;
+}
+
+.achivements{
+	background-color: #FAB702;
+	color: white;
+}
+
+.achivements .title{
+	font-size: 17px;
+	text-transform: uppercase;
+}
+.achivements .number{
+	font-size: 50px;
+}
+
+.achivements .achivement{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.contact-us-text{
+	background-color: #F9F9F9;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+}
+
+.contact-us-text .text{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	border-left: 3px solid #FAB702;
+	background-color: white;
+}
+
+.contact-us-text .title{
+	color: #3B404F;
+	font-size: 20px;
+}
+
+.contact-us-text .small-title{
+	color: #6D7396;
+	font-size: 14px;
+}
+
+.contact-us-text .button{
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.contact-us-text .button button{
+	background-color: #FAB702;
+	outline: 0;
+	border: 0;
+	color: white;
+	padding: 5px 1rem 5px 1rem;
 }
