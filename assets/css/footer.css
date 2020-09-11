@@ -1,0 +1,35 @@
+.footer{
+	background-color: #252C3A;
+}
+
+.footer p{
+	color: white;
+}
+
+.footer ul {
+	list-style: none;
+}
+.footer ul li{
+	border-bottom: 1px solid #303744;
+	padding-bottom: 0.5rem;
+	padding-top: 0.5rem;
+}
+.footer ul li a{
+	color: white;
+	font-size: 13px;
+}
+
+.recent_news p{
+	font-size: 13px;
+}
+
+.recent_news .row{
+		border-bottom: 1px solid #303744;
+		margin-top: 0.5rem;
+}
+.recent_news .row:last-child{
+	border-bottom: unset;
+}
+.footer-bottom{
+	background: #4C5B6D;
+}
